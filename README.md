@@ -17,5 +17,5 @@ Neste projeto, foi trabalhado as seguintes habilidades:
 
 ## O que foi desenvolvido
 
-Neste projeto foi desenvolvido uma comunicação com a API do ![Rick and Morty] (https://rickandmortyapi.com/), retornando alguns personagens.
+Neste projeto foi desenvolvido uma comunicação com a API do ([Rick and Morty] (https://rickandmortyapi.com/)), retornando alguns personagens.
 
